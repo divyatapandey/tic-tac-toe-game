@@ -27,3 +27,7 @@ To compile and run the game:
 
    ```bash
    g++ -o tictactoe tictactoe.cpp
+4. Execute the compiled program:
+   ```bash
+   ./tictactoe
+
